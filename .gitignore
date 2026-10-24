@@ -1,0 +1,44 @@
+# 1С:Предприятие (файлы баз данных, дампы, временные файлы)
+*.1cd
+*.1CD
+*.cf
+*.cfu
+*.epf
+*.erf
+*.dt
+*.log
+*.lgd
+*.lgf
+*.lgp
+*.cfl
+*.pfl
+*.efd
+
+# Служебные файлы выгрузки/платформы
+ConfigDumpInfoCache.xml
+v8cfg.bin
+*.bin
+
+# 1C:Enterprise Development Tools (1C:EDT)
+.project
+.settings/
+bin/
+.metadata/
+
+# Среда разработки / IDE
+.idea/
+.vscode/
+*.suo
+*.user
+*.code-workspace
+
+# Временные файлы ОС
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Служебные каталоги и скрипты агента/тестов
+.sharrowkin/
+__pycache__/
+*.pyc
+*.pyo
