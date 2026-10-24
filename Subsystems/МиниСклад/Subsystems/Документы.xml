@@ -18,7 +18,6 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.Поступление</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиТоваров</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
