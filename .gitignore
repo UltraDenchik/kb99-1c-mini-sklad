@@ -1,0 +1,59 @@
+# 1C:Enterprise service, temporary and binary files.
+# The hierarchical XML dump itself (*.xml, *.bsl, *.txt) must stay tracked.
+
+# Configuration and extension binary files
+*.cf
+*.cfu
+*.cfe
+*.cfr
+*.cfl
+*.epf
+*.epfu
+*.erf
+*.erfu
+
+# Infobase files
+*.1CD
+*.lgd
+*.lgf
+*.lgp
+*.mft
+*.mfu
+*.mfl
+*.nic
+*.sdb
+*.sdc
+*.sdd
+*.sdv
+*.dmp
+1Cv8Log/
+1Cv8FTxt/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+*.old
+*.orig
+
+# Logs
+*.log
+
+# IDE and OS files
+.vs/
+*.suo
+*.user
+*.sln
+*.vsix
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Archives and local build artifacts
+*.zip
+*.7z
+*.rar
+/build/
+/dist/
