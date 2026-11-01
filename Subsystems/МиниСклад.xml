@@ -26,6 +26,7 @@
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Документы</Subsystem>
 			<Subsystem>Регистры</Subsystem>
+			<Subsystem>Отчеты</Subsystem>
 		</ChildObjects>
 	</Subsystem>
 </MetaDataObject>
