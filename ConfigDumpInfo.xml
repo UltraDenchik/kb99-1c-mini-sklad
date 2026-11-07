@@ -47,9 +47,9 @@
 		<Metadata name="Document.Реализация.Template.ПечатьНакладная" id="64989455-4938-425c-a277-42ed06ee17c2" configVersion="8510fd1b9f43ab4e850b363a33b0875f00000000"/>
 		<Metadata name="Document.Реализация.Template.ПечатьНакладная.Template" id="64989455-4938-425c-a277-42ed06ee17c2.0" configVersion="f995fb5ff80eeb4d88086f1b5c009c0300000000"/>
 		<Metadata name="Language.Русский" id="8a6c0c0d-ee62-4b2d-b907-0798461229cc" configVersion="fc51b72a3cba44408daad5addb9b3ba000000000"/>
-		<Metadata name="Report.ОтчетыПоОстаткам" id="fb24b6ca-a406-43c5-bc4a-270acba2849c" configVersion="60b5041a9842ec4ea62400ad46370e5c00000000"/>
-		<Metadata name="Report.ОтчетыПоОстаткам.Template.ОсновнаяСхемаКомпоновкиДанных" id="6769b026-2a7e-4e6a-a006-451ef5f03e28" configVersion="27b6212505d6314ca6bf57b33762ce5700000000"/>
-		<Metadata name="Report.ОтчетыПоОстаткам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="6769b026-2a7e-4e6a-a006-451ef5f03e28.0" configVersion="2813e28134e2954e8f2c291e18e6549700000000"/>
+		<Metadata name="Report.ОборотыПоТоварам" id="fb24b6ca-a406-43c5-bc4a-270acba2849c" configVersion="60b5041a9842ec4ea62400ad46370e5c00000000"/>
+		<Metadata name="Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных" id="6769b026-2a7e-4e6a-a006-451ef5f03e28" configVersion="27b6212505d6314ca6bf57b33762ce5700000000"/>
+		<Metadata name="Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="6769b026-2a7e-4e6a-a006-451ef5f03e28.0" configVersion="2813e28134e2954e8f2c291e18e6549700000000"/>
 		<Metadata name="Subsystem.МиниСклад" id="69baaaf5-6d78-4586-bff0-dae26cdb90d1" configVersion="5cfa2a43dcc5954084f0849b05c22f5300000000"/>
 		<Metadata name="Subsystem.МиниСклад.CommandInterface" id="69baaaf5-6d78-4586-bff0-dae26cdb90d1.1" configVersion="3c001970b597214589b4a7e6f9f37b4400000000"/>
 		<Metadata name="Subsystem.МиниСклад.Subsystem.Документы" id="48ae8821-e640-4520-9192-32c2fe00d044" configVersion="fcc794635b61f243b722110c9d4da1b500000000"/>
